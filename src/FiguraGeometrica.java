@@ -2,7 +2,7 @@ public class FiguraGeometrica {
 	private Double base, altura;
 	
 	public FiguraGeometrica(double base,double altura) {
-		this.base = base;
+		this.base=base;
 		this.altura = altura;
 	}
 	
